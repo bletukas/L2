@@ -1,0 +1,42 @@
+﻿Kaunas
+Savanoriu pr. 123, Kaunas
++37037123456
+Pradiniai duomenys (iš viso automobilių: 12):
+----------------------------------------------------------------------------------------------
+| Valst.Nr. | Gamintojas    | Modelis      | Pagaminta | Tech.apžiūra | Kuras     | Sąnaudos |
+----------------------------------------------------------------------------------------------
+| KAU101    | Toyota        | Corolla      |   2018-03 |   2026-10-05 | Benzinas  |      6,1 |
+| KAU102    | Volvo         | V60          |   2016-10 |   2026-10-06 | Dyzelinas |      5,7 |
+| KAU103    | Toyota        | Yaris        |   2025-11 |   2029-11-20 | Hibridas  |      4,2 |
+| KAU104    | Volkswagen    | Passat       |   2017-08 |   2026-11-05 | Dyzelinas |      5,9 |
+| KAU105    | Ford          | Focus        |   2021-06 |   2026-11-06 | Benzinas  |      5,8 |
+| KAU106    | Volvo         | XC60         |   2025-11 |   2029-11-14 | Hibridas  |      2,3 |
+| KAU107    | Opel          | Astra        |   2016-12 |   2026-11-04 | Dyzelinas |      5,5 |
+| KAU108    | Audi          | A4           |   2019-05 |   2026-09-30 | Dyzelinas |      5,6 |
+| KAU109    | Toyota        | RAV4         |   2020-09 |   2027-01-20 | Hibridas  |      5,3 |
+| KAU110    | Skoda         | Octavia      |   2025-10 |   2029-10-10 | Dyzelinas |      5,2 |
+| KAU111    | Volvo         | S90          |   2019-02 |   2026-12-31 | Dyzelinas |      6,4 |
+| KAU112    | Volkswagen    | Golf         |   2015-01 |   2025-12-31 | Benzinas  |      6,4 |
+----------------------------------------------------------------------------------------------
+
+Vilnius
+Gedimino pr. 45, Vilnius
++37052654321
+Pradiniai duomenys (iš viso automobilių: 12):
+----------------------------------------------------------------------------------------------
+| Valst.Nr. | Gamintojas    | Modelis      | Pagaminta | Tech.apžiūra | Kuras     | Sąnaudos |
+----------------------------------------------------------------------------------------------
+| VIL201    | Tesla         | Model 3      |   2025-11 |   2029-11-02 | Elektra   |     15,5 |
+| VIL202    | Toyota        | Camry        |   2022-04 |   2026-10-20 | Hibridas  |      4,8 |
+| VIL203    | Volvo         | V90          |   2018-11 |   2026-10-31 | Dyzelinas |      6,2 |
+| VIL204    | Volkswagen    | Caddy        |   2019-05 |   2027-03-03 | Dyzelinas |      6,7 |
+| VIL205    | Ford          | Transit      |   2020-09 |   2026-11-07 | Dyzelinas |      9,0 |
+| VIL206    | Toyota        | Auris        |   2013-04 |   2026-01-01 | Hibridas  |      4,6 |
+| VIL207    | Volvo         | XC90         |   2021-12 |   2027-06-11 | Dyzelinas |      7,9 |
+| VIL208    | Opel          | Corsa        |   2022-03 |   2026-10-07 | Benzinas  |      5,4 |
+| VIL209    | Audi          | Q5           |   2023-02 |   2027-02-02 | Benzinas  |      7,4 |
+| VIL210    | Volkswagen    | Tiguan       |   2023-07 |   2026-12-15 | Benzinas  |      7,4 |
+| VIL211    | Ford          | Mondeo       |   2017-06 |   2026-10-06 | Dyzelinas |      5,8 |
+| VIL212    | Skoda         | Superb       |   2017-07 |   2027-01-10 | Dyzelinas |      5,8 |
+----------------------------------------------------------------------------------------------
+

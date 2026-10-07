@@ -1,0 +1,35 @@
+C:/Users/vlajag/Lab1.CarFleet/Lab1.CarFleet/bin/Debug/Automobiliai_1variantas.csv
+C:/Users/vlajag/Lab1.CarFleet/Lab1.CarFleet/bin/Debug/Automobiliai_2variantas.csv
+C:/Users/vlajag/Lab1.CarFleet/Lab1.CarFleet/bin/Debug/Automobiliai_3variantas.csv
+C:/Users/vlajag/Lab1.CarFleet/Lab1.CarFleet/bin/Debug/Automobiliai_4variantas.csv
+C:/Users/vlajag/Lab1.CarFleet/Lab1.CarFleet/bin/Debug/Automobiliai_5variantas.csv
+C:/Users/vlajag/Lab1.CarFleet/Lab1.CarFleet/bin/Debug/Lab1.CarFleet.exe.config
+C:/Users/vlajag/Lab1.CarFleet/Lab1.CarFleet/bin/Debug/Lab1.CarFleet.exe
+C:/Users/vlajag/Lab1.CarFleet/Lab1.CarFleet/bin/Debug/Lab1.CarFleet.pdb
+C:/Users/vlajag/Lab1.CarFleet/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.csproj.AssemblyReference.cache
+C:/Users/vlajag/Lab1.CarFleet/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.csproj.CoreCompileInputs.cache
+C:/Users/vlajag/Lab1.CarFleet/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.exe
+C:/Users/vlajag/Lab1.CarFleet/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.pdb
+C:/Users/vlajag/Lab1.CarFleet/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.exe.config
+C:/Users/vlada/source/repos/Lab1.CarFleet (FINAL)/Lab1.CarFleet/bin/Debug/Automobiliai_1variantas.csv
+C:/Users/vlada/source/repos/Lab1.CarFleet (FINAL)/Lab1.CarFleet/bin/Debug/Automobiliai_2variantas.csv
+C:/Users/vlada/source/repos/Lab1.CarFleet (FINAL)/Lab1.CarFleet/bin/Debug/Automobiliai_3variantas.csv
+C:/Users/vlada/source/repos/Lab1.CarFleet (FINAL)/Lab1.CarFleet/bin/Debug/Automobiliai_4variantas.csv
+C:/Users/vlada/source/repos/Lab1.CarFleet (FINAL)/Lab1.CarFleet/bin/Debug/Lab1.CarFleet.exe.config
+C:/Users/vlada/source/repos/Lab1.CarFleet (FINAL)/Lab1.CarFleet/bin/Debug/Lab1.CarFleet.exe
+C:/Users/vlada/source/repos/Lab1.CarFleet (FINAL)/Lab1.CarFleet/bin/Debug/Lab1.CarFleet.pdb
+C:/Users/vlada/source/repos/Lab1.CarFleet (FINAL)/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.csproj.AssemblyReference.cache
+C:/Users/vlada/source/repos/Lab1.CarFleet (FINAL)/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.csproj.CoreCompileInputs.cache
+C:/Users/vlada/source/repos/Lab1.CarFleet (FINAL)/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.exe
+C:/Users/vlada/source/repos/Lab1.CarFleet (FINAL)/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.pdb
+/Users/vladasj40/Downloads/Lab1.CarFleet (FINAL)/Lab1.CarFleet/bin/Debug/Automobiliai_1variantas.csv
+/Users/vladasj40/Downloads/Lab1.CarFleet (FINAL)/Lab1.CarFleet/bin/Debug/Automobiliai_2variantas.csv
+/Users/vladasj40/Downloads/Lab1.CarFleet (FINAL)/Lab1.CarFleet/bin/Debug/Automobiliai_3variantas.csv
+/Users/vladasj40/Downloads/Lab1.CarFleet (FINAL)/Lab1.CarFleet/bin/Debug/Automobiliai_4variantas.csv
+/Users/vladasj40/Downloads/Lab1.CarFleet (FINAL)/Lab1.CarFleet/bin/Debug/Lab1.CarFleet.exe.config
+/Users/vladasj40/Downloads/Lab1.CarFleet (FINAL)/Lab1.CarFleet/bin/Debug/Lab1.CarFleet.exe
+/Users/vladasj40/Downloads/Lab1.CarFleet (FINAL)/Lab1.CarFleet/bin/Debug/Lab1.CarFleet.pdb
+/Users/vladasj40/Downloads/Lab1.CarFleet (FINAL)/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.csproj.AssemblyReference.cache
+/Users/vladasj40/Downloads/Lab1.CarFleet (FINAL)/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.csproj.CoreCompileInputs.cache
+/Users/vladasj40/Downloads/Lab1.CarFleet (FINAL)/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.exe
+/Users/vladasj40/Downloads/Lab1.CarFleet (FINAL)/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.pdb

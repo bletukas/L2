@@ -1,0 +1,28 @@
+C:/Users/vlaste1/Desktop/Lab2.CarFleet/Lab1.CarFleet/obj/Debug/Lab2.CarFleet.csproj.AssemblyReference.cache
+C:/Users/vlaste1/Desktop/Lab2.CarFleet/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.exe.config
+C:/Users/vlaste1/Desktop/Lab2.CarFleet/Lab1.CarFleet/obj/Debug/Lab2.CarFleet.csproj.CoreCompileInputs.cache
+C:/Users/vlaste1/Desktop/Lab2.CarFleet/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.exe
+C:/Users/vlaste1/Desktop/Lab2.CarFleet/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.pdb
+/Users/vladassteponavicius/Library/CloudStorage/OneDrive-KaunasUniversityofTechnology/OP laboratoriniai/Lab2.CarFleet/Lab1.CarFleet/bin/Debug/Automobiliai_1variantas.csv
+/Users/vladassteponavicius/Library/CloudStorage/OneDrive-KaunasUniversityofTechnology/OP laboratoriniai/Lab2.CarFleet/Lab1.CarFleet/bin/Debug/Automobiliai_2variantas.csv
+/Users/vladassteponavicius/Library/CloudStorage/OneDrive-KaunasUniversityofTechnology/OP laboratoriniai/Lab2.CarFleet/Lab1.CarFleet/bin/Debug/Automobiliai_3variantas.csv
+/Users/vladassteponavicius/Library/CloudStorage/OneDrive-KaunasUniversityofTechnology/OP laboratoriniai/Lab2.CarFleet/Lab1.CarFleet/bin/Debug/Automobiliai_4variantas.csv
+/Users/vladassteponavicius/Library/CloudStorage/OneDrive-KaunasUniversityofTechnology/OP laboratoriniai/Lab2.CarFleet/Lab1.CarFleet/bin/Debug/Lab1.CarFleet.exe.config
+/Users/vladassteponavicius/Library/CloudStorage/OneDrive-KaunasUniversityofTechnology/OP laboratoriniai/Lab2.CarFleet/Lab1.CarFleet/bin/Debug/Lab1.CarFleet.exe
+/Users/vladassteponavicius/Library/CloudStorage/OneDrive-KaunasUniversityofTechnology/OP laboratoriniai/Lab2.CarFleet/Lab1.CarFleet/bin/Debug/Lab1.CarFleet.pdb
+/Users/vladassteponavicius/Library/CloudStorage/OneDrive-KaunasUniversityofTechnology/OP laboratoriniai/Lab2.CarFleet/Lab1.CarFleet/obj/Debug/Lab2.CarFleet.csproj.AssemblyReference.cache
+/Users/vladassteponavicius/Library/CloudStorage/OneDrive-KaunasUniversityofTechnology/OP laboratoriniai/Lab2.CarFleet/Lab1.CarFleet/obj/Debug/Lab2.CarFleet.csproj.CoreCompileInputs.cache
+/Users/vladassteponavicius/Library/CloudStorage/OneDrive-KaunasUniversityofTechnology/OP laboratoriniai/Lab2.CarFleet/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.exe
+/Users/vladassteponavicius/Library/CloudStorage/OneDrive-KaunasUniversityofTechnology/OP laboratoriniai/Lab2.CarFleet/Lab1.CarFleet/obj/Debug/Lab1.CarFleet.pdb
+C:\Users\vlaste1\Desktop\Lab2.CarFleet\Lab1.CarFleet\bin\Debug\Automobiliai_1variantas.csv
+C:\Users\vlaste1\Desktop\Lab2.CarFleet\Lab1.CarFleet\bin\Debug\Automobiliai_2variantas.csv
+C:\Users\vlaste1\Desktop\Lab2.CarFleet\Lab1.CarFleet\bin\Debug\Automobiliai_3variantas.csv
+C:\Users\vlaste1\Desktop\Lab2.CarFleet\Lab1.CarFleet\bin\Debug\Automobiliai_4variantas.csv
+C:\Users\vlaste1\Desktop\Lab2.CarFleet\Lab1.CarFleet\bin\Debug\Lab1.CarFleet.exe.config
+C:\Users\vlaste1\Desktop\Lab2.CarFleet\Lab1.CarFleet\bin\Debug\Lab1.CarFleet.exe
+C:\Users\vlaste1\Desktop\Lab2.CarFleet\Lab1.CarFleet\bin\Debug\Lab1.CarFleet.pdb
+C:\Users\vlaste1\Desktop\Lab2.CarFleet\Lab1.CarFleet\obj\Debug\Lab2.CarFleet.csproj.AssemblyReference.cache
+C:\Users\vlaste1\Desktop\Lab2.CarFleet\Lab1.CarFleet\obj\Debug\Lab1.CarFleet.exe.config
+C:\Users\vlaste1\Desktop\Lab2.CarFleet\Lab1.CarFleet\obj\Debug\Lab2.CarFleet.csproj.CoreCompileInputs.cache
+C:\Users\vlaste1\Desktop\Lab2.CarFleet\Lab1.CarFleet\obj\Debug\Lab1.CarFleet.exe
+C:\Users\vlaste1\Desktop\Lab2.CarFleet\Lab1.CarFleet\obj\Debug\Lab1.CarFleet.pdb
